@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime Guy Bakunzi</h1>
 <h3 align="center">ML Engineer | Turning data into intelligent solutions 🚀 Passionate about building scalable AI, optimizing models, and solving real-world puzzles. Python + TensorFlow/PyTorch enthusiast. Let’s engineer impact together! 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxime-guy&label=Profile%20views&color=0e75b6&style=flat" alt="maxime-guy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxime-guy" alt="maxime-guy" /></a> </p>
-
 - 🌱 I’m currently learning **Python, well I am always a learner.**
 
 - 💬 Ask me about **Pytorch, Tensorflow**
